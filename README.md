@@ -2,9 +2,7 @@
 an assingment in which patients and doctors  can add their details and according to the symptom and location patient get doctors info and get appointment online.
 
 
- ##Java Technical Assignment         
-
-#The Task
+# Java Technical Assignment         
 
 We have a platform where doctors can register their patients through a mobile or web portal. For this to work we need to build backend APIs to achieve task like:
 
